@@ -10,7 +10,7 @@ cask 'steinberg-cubase-pro-10v5' do
   pkg 'Cubase for Mac/Cubase 10.5.pkg'
 
   uninstall pkgutil: [
-                       'com.steinberg.*.cubase95',
+                       'com.steinberg.*.cubase105',
                        'com.steinberg.AcousticAgentSEMixer',
                        'com.steinberg.AcousticAgentSEPatternBanks',
                        'com.steinberg.AcousticAgentSEStyleFiles',
